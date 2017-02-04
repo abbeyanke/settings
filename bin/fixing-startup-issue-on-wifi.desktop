@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Terminal=true
+Type=Application
+Name=fixing script for wifi only startup
+Exec=/home/suzue/Documents/settings/bin/fixing-startup-issue-on-wifi.sh
+NoDisplay=true
+StartupWMClass=shellscript
+
